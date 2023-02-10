@@ -38,7 +38,7 @@ Create a php directory in the root directory of your project and add a Dockerfil
 
 ### Step 4:
 
-Create a laravel.ini file inside the docker/php directory.
+Create a laravel.ini file inside the php directory.
 
 ### Step 5:
 
